@@ -1,0 +1,29 @@
+sudo apt update
+sudo apt install nodejs
+node -v
+
+
+git config
+git config --global user.name "User"
+git config --global user.email "info@pure-cs.com"
+git config --global credential.helper store
+git clone "adress"
+dir 
+cd ""
+
+sudo apt install npm
+node start.js
+npm inst -y 
+lsof -i:3000
+killall -9 7257
+kill -9 7257
+
+sudo lsof -i:3000
+sudo kill -9 
+
+git pull
+
+
+
+Clean Buckets 
+https://oss-manager.autodesk.io/#
